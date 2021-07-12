@@ -1,0 +1,48 @@
+.footer {
+  background-color: $color-white;
+  color: $color-black;
+  grid-column: full-start/full-end;
+  grid-row: 6/ 7;
+  padding: 6rem 7rem;
+
+  @media screen and (max-width: $bp-medium) {
+    grid-row: 7/8;
+  }
+
+
+  &__container {
+    text-align: center;
+  }
+
+  &__text {
+    margin-right: 5rem;
+  }
+
+  &__icon--1,
+  &__icon--2,
+  &__text {
+    display: inline-block;
+    font-size: 3rem;
+  }
+
+  &__icon--1 {
+    margin-right: 3rem;
+  }
+
+  &__link {
+    transition: all .3s;
+
+    &:link,
+    &:visited {
+      color: $color-black;
+
+    }
+
+    &:hover {
+      color: $color-primary-1;
+    }
+  }
+
+
+
+}

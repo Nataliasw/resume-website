@@ -1,0 +1,64 @@
+.name {
+  background-color: $color-white;
+
+  grid-column: center-start/center-end;
+  grid-row: 1 /2;
+
+  display: grid;
+  grid-template-rows: min-content min-content;
+
+
+  @media screen and (max-width: $bp-medium) {
+    grid-row: 2/3;
+
+  }
+
+  .ml16 {
+    background: linear-gradient(to right bottom, $color-primary-1, $color-primary-2, $color-primary-3, $color-primary-4);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+  }
+
+
+
+  &__container {
+    margin-top: 15rem;
+
+
+  }
+
+
+
+  &__heading {
+    color: $color-black;
+
+    @media screen and(max-width: $bp-medium) {
+      text-align: center;
+    }
+  }
+
+  &__link {
+
+    &:visited,
+    &:link {
+      color: $color-black;
+      transition: all .3s;
+    }
+
+    &:hover {
+      color: $color-primary-2;
+    }
+
+
+  }
+}
+
+
+
+.letter {
+  font-size: 8rem;
+  font-weight: 800;
+  display: inline-block;
+}
