@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06ffdfd0.chunk.css",
+    "main.js": "/static/js/main.46a6d304.chunk.js",
+    "main.js.map": "/static/js/main.46a6d304.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b205a342.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b205a342.js.map",
+    "static/css/2.d7320992.chunk.css": "/static/css/2.d7320992.chunk.css",
+    "static/js/2.d3a843b3.chunk.js": "/static/js/2.d3a843b3.chunk.js",
+    "static/js/2.d3a843b3.chunk.js.map": "/static/js/2.d3a843b3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d7320992.chunk.css.map": "/static/css/2.d7320992.chunk.css.map",
+    "static/css/main.06ffdfd0.chunk.css.map": "/static/css/main.06ffdfd0.chunk.css.map",
+    "static/js/2.d3a843b3.chunk.js.LICENSE.txt": "/static/js/2.d3a843b3.chunk.js.LICENSE.txt",
+    "static/media/Natalia_Swiercz_CV-eng.ddd089ed.pdf": "/static/media/Natalia_Swiercz_CV-eng.ddd089ed.pdf",
+    "static/media/card-1.0d61e144.png": "/static/media/card-1.0d61e144.png",
+    "static/media/card-2.8c12263a.png": "/static/media/card-2.8c12263a.png",
+    "static/media/card-3.21a4ad60.jpg": "/static/media/card-3.21a4ad60.jpg",
+    "static/media/certificate-2.03405d2b.pdf": "/static/media/certificate-2.03405d2b.pdf",
+    "static/media/certificate-3.8ed21a99.pdf": "/static/media/certificate-3.8ed21a99.pdf",
+    "static/media/certificate.d543fc44.pdf": "/static/media/certificate.d543fc44.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b205a342.js",
+    "static/css/2.d7320992.chunk.css",
+    "static/js/2.d3a843b3.chunk.js",
+    "static/css/main.06ffdfd0.chunk.css",
+    "static/js/main.46a6d304.chunk.js"
+  ]
+}
